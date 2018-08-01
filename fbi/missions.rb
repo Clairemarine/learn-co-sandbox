@@ -7,4 +7,4 @@ s=success.sample
 failure= ["Remember Toby? He was salty that you didn't pick him and he took your case and solved it in 3 seconds, he's a pro. Find a different career path.", "Your vehicle broke down after the engine fell out, why'd you choose that one?? You're NOT an FBI agent.", "Your weapon couldn't hurt a mosquito when you needed it, when you tried to use it on the suspected criminal, they just walked away. How could you even consider being an FBI agent? Bye." ]
 f=failure.sample
 
-puts m
+puts s
